@@ -3,6 +3,7 @@
 
 from sentry.conf.server import *  # NOQA
 
+a = 5;
 
 # Generously adapted from pynetlinux: https://git.io/JJmga
 def get_internal_network():
